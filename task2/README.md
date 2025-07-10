@@ -1,17 +1,13 @@
-# 📊 Task 2: Exploratory Data Analysis (EDA)
+#  Task 2: Exploratory Data Analysis (EDA)
 
-This task focuses on performing Exploratory Data Analysis (EDA) on a book dataset that was previously scraped in Task 1.
-
----
-
-## ✅ Objective
+## Objective
 
 - Analyze the book data to uncover insights using statistical methods and visualizations.
 - Identify patterns, trends, and outliers in book pricing and ratings.
 
 ---
 
-## 🧠 Key Questions Answered
+## Key Questions Answered
 
 1. What is the total number of books?
 2. What are the minimum, maximum, and average prices of books?
@@ -23,7 +19,7 @@ This task focuses on performing Exploratory Data Analysis (EDA) on a book datase
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `eda_books.py` – Python script for performing EDA
 - `books_dataset_cleaned.xlsx` – Cleaned Excel dataset used in the analysis
@@ -32,7 +28,7 @@ This task focuses on performing Exploratory Data Analysis (EDA) on a book datase
 
 ---
 
-## 📌 Libraries Used
+##  Libraries Used
 
 - `pandas` – Data manipulation
 - `matplotlib` – Data visualization
@@ -40,7 +36,7 @@ This task focuses on performing Exploratory Data Analysis (EDA) on a book datase
 
 ---
 
-## 📈 Visual Output
+##  Visual Output
 
 The code generates two main charts:
 - **Price Distribution** – Histogram with KDE overlay
@@ -48,7 +44,7 @@ The code generates two main charts:
 
 ---
 
-## 💡 Insights
+##  Insights
 
 - Most books have similar pricing (around £53.50)
 - Ratings range from 1 to 5 with no strong price correlation
@@ -56,7 +52,7 @@ The code generates two main charts:
 
 ---
 
-## 📂 Output Format
+##  Output Format
 
 All visuals and the final cleaned dataset are saved and included in this folder for reference.
 
