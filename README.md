@@ -8,7 +8,7 @@ This task involves extracting book information from the website [books.toscrape.
 
 - Use web scraping techniques to collect product data (books).
 - Gather data across multiple pages of the website.
-- Save the collected data into structured CSV and Excel files.
+- Save the collected data into  Excel files.
 
 ---
 
@@ -43,7 +43,6 @@ The script automatically scrapes data from **all 50 pages** of the website using
 ##  Files Included
 
 - `scrape_books.py` – Python script used for scraping
-- `books_dataset.csv` – Raw data in CSV format
 - `books_dataset.xlsx` – Same data saved in Excel format
 
 ---
