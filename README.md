@@ -55,7 +55,7 @@ The script automatically scrapes data from **all 50 pages** of the website using
 
 ---
 
-## 📂 Output Example
+##  Output Example
 
 | Title                     | Price | Rating | Availability | Book URL                        |
 |---------------------------|--------|--------|--------------|----------------------------------|
@@ -65,7 +65,7 @@ The script automatically scrapes data from **all 50 pages** of the website using
 
 ---
 
-## 📌 How to Run
+##  How to Run
 
 Make sure to install required libraries:
 ```bash
